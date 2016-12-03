@@ -1,0 +1,9 @@
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.Cache
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+c:\users\jones\onedrive\documents\visual studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
